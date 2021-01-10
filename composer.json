@@ -1,0 +1,16 @@
+{
+  "name": "dummy/dummy",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "simon",
+      "email": "user@gmail.com"
+    }
+  ],
+  "require": {
+    "smn/router-mvc" : "dev-master",
+      "laminas/laminas-servicemanager" : "3.5.1"
+  }
+}
